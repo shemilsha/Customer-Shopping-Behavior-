@@ -140,6 +140,10 @@ The report uses customer shopping fields such as:
 - Color
 
 This project demonstrates how shopping transaction data can be organized into an interactive Power BI report for exploring sales performance, customer behavior, product preferences, and delivery patterns. It showcases practical skills in data preparation, KPI reporting, DAX-based analysis, and dashboard development.
+
+
 👤 Author
+
 Muhammed Shemil
+
 BCA Graduate | Aspiring Data Analyst
