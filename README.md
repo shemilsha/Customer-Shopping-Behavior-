@@ -14,8 +14,11 @@ The report is organized into multiple pages, including an Executive Overview, Sa
 - Track return rate and profit-related metrics
 📊 Dashboard Pages
 1. Executive Overview
+   
 Provides a high-level summary of shopping behavior through key performance indicators and visual breakdowns.
+
 <img width="1322" height="742" alt="EXECUTIVE OVERVIEW" src="https://github.com/user-attachments/assets/2691e5db-2351-442d-8d3b-52e9e7996997" />
+
 Topics include:
 - Total customers
 - Total transactions
@@ -29,7 +32,9 @@ Topics include:
 - Purchase trends over time
 2. Sales Dashboard
 Focuses on sales performance across products and customer shopping choices.
+
 <img width="1327" height="742" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/029b79d7-90b0-4fcf-b27c-149c5462c229" />
+
 Topics include:
 - Sales by brand
 - Sales by product category
@@ -40,7 +45,9 @@ Topics include:
 - Customer gender breakdown
 3. Customer Dashboard
 Analyzes customer demographics and shopping behavior to understand purchasing patterns.
+
 <img width="1322" height="743" alt="CUSTOMER DASHBOARD" src="https://github.com/user-attachments/assets/74bcfe9d-427d-427a-a932-38c1b048294c" />
+
 Topics include:
 -Customer distribution by age group and gender
 -Purchase frequency analysis
@@ -49,7 +56,9 @@ Topics include:
 -Online vs. offline shopping behavior
 -Customer purchase patterns and trends
 4. Product Dashboard
+
 <img width="1322" height="742" alt="PRODUCT DASHBOARD" src="https://github.com/user-attachments/assets/28def6cb-5edf-4059-891c-7b405f7ad1b4" />
+
 Focuses on product performance and customer preferences across different categories and brands.
 Topics include:
 -Sales by product category
@@ -60,7 +69,9 @@ Topics include:
 -Product preferences by customer demographics
 5. Orders & Delivery Dashboard
 Explores order patterns and delivery-related information.
+
 <img width="1322" height="742" alt="ORDER   DELIVERY DASHBOARD" src="https://github.com/user-attachments/assets/eb6ffe95-707a-4262-b9d0-a450082f7cb2" />
+
 Topics include:
 - Total transactions and total sales
 - Average purchase amount
